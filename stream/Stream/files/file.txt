@@ -1,0 +1,4 @@
+Hello
+All
+From
+file.txt
